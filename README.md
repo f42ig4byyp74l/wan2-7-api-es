@@ -104,6 +104,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-9991f2) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [wan2-7-prompts-es](https://github.com/f42ig4byyp74l/wan2-7-prompts-es)
+- **Same model, other languages** — 9 more language builds: 中文 [wan2-7-api-cn](https://github.com/z-wqisrcfxa/wan2-7-api-cn) · Deutsch `wan2-7-api-de` · Français [wan2-7-api-fr](https://github.com/sabyr006rt82d/wan2-7-api-fr) · Relay/gateway [wan2-7-api-gateway](https://github.com/irermc20d41/wan2-7-api-gateway) · Bahasa [wan2-7-api-id](https://github.com/waozcam/wan2-7-api-id) · 日本語 [wan2-7-api-ja](https://github.com/vvdndrxs4aa/wan2-7-api-ja) · 한국어 [wan2-7-api-ko](https://github.com/lmgtzsi9om2/wan2-7-api-ko) · Português [wan2-7-api-pt](https://github.com/uc814m5o/wan2-7-api-pt) · Русский [wan2-7-api-ru](https://github.com/d335whdzs8i43/wan2-7-api-ru)
+- **More models in this language** — [midjourney-api-es](https://github.com/xbuu0/midjourney-api-es) · [gemini-2-5-flash-image-preview-api-es](https://github.com/ekw3w/gemini-2-5-flash-image-preview-api-es) · [nano-banana-api-es](https://github.com/gbm5mfl1/nano-banana-api-es) · [gemini-3-1-flash-image-preview-api-es](https://github.com/x3kcczm8l29xn/gemini-3-1-flash-image-preview-api-es) · [nano-banana-2-api-es](https://github.com/d63hy9t-4pp/nano-banana-2-api-es) · [gemini-3-pro-image-preview-api-es](https://github.com/uv9d8/gemini-3-pro-image-preview-api-es)
+- **Topic hubs** — every build of this model, all languages: [wan2-7](https://github.com/topics/wan2-7) · [wan2-7-api](https://github.com/topics/wan2-7-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
